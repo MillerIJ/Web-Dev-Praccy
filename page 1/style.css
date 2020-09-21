@@ -1,3 +1,11 @@
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+
 h1 {
-    text-align: center;
+    background-color: #008080;
+    color: white;
+    position: fixed;
+    top: -20px;
 }
