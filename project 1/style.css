@@ -1,3 +1,18 @@
+.container {
+    display: grid;
+    
+}
+
 #image {
-    width: 500px;
+    width: 1000px;
+}
+
+@media (max-width: 1200px){
+    #image {
+        max-width: 100%;
+    }
+}
+
+li {
+    padding-bottom: 20px;
 }
