@@ -46,3 +46,9 @@ li{
     text-align: justify;
 
 }
+
+@media (max-width: 1200px){
+    li{
+        width: 50%;
+    }
+}
