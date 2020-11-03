@@ -1,0 +1,17 @@
+#nav-bar{
+    position: fixed;
+    width: 100%;
+}
+
+#header-img {
+    width: 50px;
+}
+
+main {
+    padding-top: 100px;
+    margin: 0 auto;
+}
+
+.pad-top{
+    margin-top: 10px;
+}
