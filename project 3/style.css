@@ -40,3 +40,16 @@ main {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+#footer{
+    height: 100px;
+}
+
+footer{
+    height: 120px;
+}
+
+.smol-print{
+    font-size: 12px;
+    margin-right: 10px;
+}
