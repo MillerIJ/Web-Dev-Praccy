@@ -9,6 +9,8 @@ h6{
     border-width: 2px;
     border-style: solid;
     padding-top: 10px;
+
+    position: static;
 }
 
 hr{
@@ -30,6 +32,29 @@ hr{
 
 code{
     background-color: rgb(228, 228, 228);
+    color: black;
     padding: 10px;
     margin-bottom: 15px;
+}
+
+#content{
+    margin-bottom: 50px;
+    position: static;
+}
+
+
+@media screen and (min-width: 992px){
+    #navbar{
+        position: fixed;
+    }
+    #content{
+        position: absolute;
+        left: 25%;
+        
+    }
+}
+@media screen and (max-width: 1070px) and (min-width: 992px){
+    h3 {
+        font-size: 1.5rem;
+    }
 }
