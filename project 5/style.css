@@ -1,0 +1,22 @@
+.navbar{
+    z-index: 2;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.gray-text{
+    color: gray;
+}
+.center-text{
+    text-align: center;
+}
+.full-page{
+    height: 1100px;
+}
+#welcome-section{
+    margin-top: -200px;
+    background-color: #4aa196;
+    color: white;
+}
+h1{
+    font-size: 50px;
+}
