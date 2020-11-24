@@ -1,0 +1,54 @@
+.container {
+    display: grid;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.item1{
+    background: black;
+    width: 100%;
+    height: 50px;
+
+}
+
+.item2{
+    background: lightgrey;
+    margin-top: 20px;
+    padding-top: 20px;
+
+}
+
+.item4{
+    background: lightgrey;
+
+}
+
+#image {
+    width: 1000px;
+}
+
+@media (max-width: 1200px){
+    #image {
+        max-width: 100%;
+    }
+}
+
+.smaller-width {
+    padding-bottom: 20px;
+    width: 600px;
+    text-align: justify;
+    padding-left: 35%;
+}
+
+li{
+    padding-bottom: 20px;
+    width: 600px;
+    text-align: justify;
+
+}
+
+@media (max-width: 1200px){
+    li{
+        width: 50%;
+    }
+}

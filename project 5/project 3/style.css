@@ -1,0 +1,55 @@
+#nav-bar{
+    position: fixed;
+    width: 100%;
+    opacity: 1;
+}
+
+
+#header-img {
+    width: 50px;
+}
+
+.button{
+    background-color: rgb(255, 214, 32);
+}
+
+main {
+    padding-top: 100px;
+}
+
+.marg-top{
+    margin-top: 10px;
+}
+
+.price-option{
+    outline: 2px solid black;
+    height: 300px;
+    margin-left: 20px;
+    max-width: 275px;
+}
+
+.reduce-margin{
+    margin-top: -10px;
+}
+
+.grey-color{
+    background-color: lightgrey;
+}
+
+.pad{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#footer{
+    height: 100px;
+}
+
+footer{
+    height: 120px;
+}
+
+.smol-print{
+    font-size: 12px;
+    margin-right: 10px;
+}
