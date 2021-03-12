@@ -41,3 +41,8 @@ h2 + button {
 footer > a {
     color: #84a59d;
 }
+
+.post button:hover {
+    background-color: #f28482;
+    color: #f7ede2;
+}
